@@ -4,7 +4,7 @@
 int main()
 {
     int n, i;
-    scanf("%d", &n);
+    scanf("%d", &n);//how many
     for(i=0; i<n; i++)
     {
         int a[4], j, pass=0, sum=0, m=0;
