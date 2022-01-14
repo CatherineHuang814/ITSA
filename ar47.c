@@ -1,4 +1,4 @@
-//regular num
+//positive integer of the form 2x3x5
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
