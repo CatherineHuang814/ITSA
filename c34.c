@@ -1,3 +1,4 @@
+//standard height
 #include<stdio.h>  
   
 int main()  
